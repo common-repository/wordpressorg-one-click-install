@@ -1,0 +1,158 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Viper007Bond
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wordpressorg-one-click-"
+"install\n"
+"POT-Creation-Date: 2009-05-16 09:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wordpressorg-one-click-install.php:41
+msgid "WordPress.org Click To Install"
+msgstr ""
+
+#: wordpressorg-one-click-install.php:41
+msgid "WP.org Installer"
+msgstr ""
+
+#: wordpressorg-one-click-install.php:47
+#, php-format
+msgid ""
+"In order to use <strong>WordPress.org One-Click Install</strong>, you will "
+"also need to install the accompanying Greasemonkey script or generic "
+"bookmarklet. For details, <a href=\"%s\">click here</a>."
+msgstr ""
+
+#: wordpressorg-one-click-install.php:72
+msgid ""
+"Adds an \"Install\" button to WordPress.org plugin pages allowing you to one-"
+"click install plugins to your blog. Requires the accompanying WordPress "
+"plugin."
+msgstr ""
+
+#: wordpressorg-one-click-install.php:81
+#, php-format
+msgid "Install to %s"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (PACKAGE VERSION)  #-#-#-#-#
+#. Plugin Name of an extension
+#: wordpressorg-one-click-install.php:95
+msgid "WordPress.org One-Click Install"
+msgstr ""
+
+#: wordpressorg-one-click-install.php:97
+msgid "Browser Script Installation Instructions"
+msgstr ""
+
+#: wordpressorg-one-click-install.php:99
+msgid ""
+"In order to use this plugin, you must also install one of two scripts into "
+"your browser:"
+msgstr ""
+
+#: wordpressorg-one-click-install.php:102
+#, php-format
+msgid ""
+"The first option (and the recommended one) is a Greasemonkey script. "
+"Greasemonkey is <a href=\"%s\" title=\"Click here to go install Greasemonkey"
+"\">an addon</a> for Firefox that allows you to manipulate how any website on "
+"the Internet displays in your browser. By using this option, a new orange "
+"button will show up on WordPress.org automatically."
+msgstr ""
+
+#: wordpressorg-one-click-install.php:103
+#, php-format
+msgid ""
+"The second option, which should only be used in browsers that cannot easily "
+"use Greasemonkey scripts (such as Internet Explorer), is a <a href=\"%s"
+"\">bookmarklet</a>. It works like a bookmark (also known as a favorite) "
+"works where you simply click it to initiate the process. Unlike the "
+"Greasemonkey script, it will be unable to add a new button to the WordPress."
+"org site itself and you will instead have to click the bookmarklet."
+msgstr ""
+
+#: wordpressorg-one-click-install.php:106
+msgid "Greasemonkey Script Installation"
+msgstr ""
+
+#: wordpressorg-one-click-install.php:108
+#, php-format
+msgid ""
+"Once you have Greasemonkey <a href='%s' title='Click here to go install "
+"Greasemonkey'>installed</a> in your Firefox browser and restarted Firefox "
+"(that's important!), click this button:"
+msgstr ""
+
+#: wordpressorg-one-click-install.php:110
+msgid "Install Greasemonkey Script"
+msgstr ""
+
+#: wordpressorg-one-click-install.php:112
+msgid "Bookmarklet Script Installation"
+msgstr ""
+
+#: wordpressorg-one-click-install.php:114
+msgid ""
+"If you are unable to use the Greasemonkey script, you can use this "
+"bookmarklet instead. Simply drag-and-drop the following link to your "
+"bookmarks bar or right click it and add it to your favorites:"
+msgstr ""
+
+#: wordpressorg-one-click-install.php:116
+msgid ""
+"This bookmarklet can only be used on individual plugin pages on WordPress."
+"org."
+msgstr ""
+
+#: wordpressorg-one-click-install.php:116
+#, php-format
+msgid "Install Plugin To %s"
+msgstr ""
+
+#: wordpressorg-one-click-install.php:118
+msgid "Plugin Usage Instructions"
+msgstr ""
+
+#: wordpressorg-one-click-install.php:120
+#, php-format
+msgid ""
+"If you're already here and just wanting to install a new plugin, then you "
+"don't need this plugin. Just visit your <a href='%s'>built-in installer</a>."
+msgstr ""
+
+#: wordpressorg-one-click-install.php:122
+msgid ""
+"However if someone sends you a link to a plugin at WordPress.org and you "
+"then want to install that plugin, this is where this plugin comes into play. "
+"Rather than having to either manually install that plugin or find it again "
+"in your admin area, just click the new button that'll now show up on "
+"WordPress.org or the bookmarklet."
+msgstr ""
+
+#. Plugin URI of an extension
+msgid ""
+"http://www.viper007bond.com/wordpress-plugins/wordpressorg-one-click-install/"
+msgstr ""
+
+#. Description of an extension
+msgid "Allows you to one-click install plugins directly from WordPress.org."
+msgstr ""
+
+#. Author of an extension
+msgid "Viper007Bond"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://www.viper007bond.com/"
+msgstr ""
